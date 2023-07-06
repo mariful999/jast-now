@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.head1{
+    background-color: rgb(37, 52, 211);
+    padding: 20px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.logo1{
+   width: 120px; 
+}
+.text{
+   display: flex;
+}
+.manu{
+    padding: 10px;
+    padding-right: 10px;
+    font-size: 10 px;
+    color: white;
+}
+.manu:hover{
+    color: rgb(255, 0, 157);
+    
+}
+.mnu:hover{
+    color: red;
+}
+.mnu{
+    margin: 10px;
+    color: rgb(0, 255, 13);
+}
